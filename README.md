@@ -8,7 +8,7 @@
 
 ### 💻 Sobre mim
 
-- 👨‍💻 Atualmente estudo **Java** e trabalho com **Django**
+- 👨‍💻 Atualmente estudo **Java**
 - ⚽ Nas horas vagas, gosto de **praticar esportes**
 - 💡 Curioso por tecnologia, adoro aprender coisas novas
 - 🚀 Sempre buscando crescer como desenvolvedor e como pessoa
