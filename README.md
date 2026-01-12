@@ -60,4 +60,3 @@ Gosto de entender **como as coisas funcionam por trás**, escrever código limpo
 <div align="center">
   ✨ Obrigado por visitar meu perfil! ✨
 </div>
-EOF
