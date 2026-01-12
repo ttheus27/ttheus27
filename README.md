@@ -8,7 +8,7 @@
 
 ## 💻 Sobre mim
 
-Sou **Desenvolvedor Júnior**, estudante de **Engenharia de Software na PUCPR (5º período)**, com experiências práticas em projetos acadêmicos e pessoais.  
+Sou Desenvolvedor Júnior, estudante de Engenharia de Software na PUCPR (5º período), com experiências práticas no mercado de trabalho e em projetos acadêmicos e pessoais.
 Tenho maior afinidade com **Back-end**, mas também atuo em **Fullstack** quando necessário.
 
 Gosto de entender **como as coisas funcionam por trás**, escrever código limpo e aprender constantemente — tanto por projetos quanto por documentação (inclusive em inglês).
@@ -35,8 +35,6 @@ Gosto de entender **como as coisas funcionam por trás**, escrever código limpo
 ---
 
 ## 📌 Projetos em destaque
-
-> 📍 Fixe aqui no GitHub os repositórios que melhor te representam.
 
 - 🔹 Projetos acadêmicos focados em lógica, backend e organização de código  
 - 🔹 Projetos pessoais para estudo e prática de Python, Django e Java  
