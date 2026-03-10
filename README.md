@@ -1,48 +1,56 @@
 # 👋 Matheus Silva da Silva
-
 <div align="center">
-  <em>Desenvolvedor Back-end / Fullstack Júnior • Java & Python</em>
+  <em>Back-end / Fullstack Junior Developer • Java & Python</em>
 </div>
 
 ---
 
-## 💻 Sobre mim
+## 💻 About Me
 
-Sou Desenvolvedor Júnior, estudante de Engenharia de Software na PUCPR (5º período), com experiências práticas no mercado de trabalho e em projetos acadêmicos e pessoais.
-Tenho maior afinidade com **Back-end**, mas também atuo em **Fullstack** quando necessário.
+I'm a Junior Developer and Software Engineering student at PUCPR (5th semester), with hands-on experience in the job market and in academic and personal projects.
 
-Gosto de entender **como as coisas funcionam por trás**, escrever código limpo e aprender constantemente — tanto por projetos quanto por documentação (inclusive em inglês).
+I have a stronger affinity for **Back-end**, but I also work **Fullstack** when needed.
 
-- 🎓 Engenharia de Software — PUCPR (formatura prevista: **2027**)
-- 🚀 Buscando oportunidades como **Desenvolvedor Júnior**
-- 📚 Inglês **intermediário** (leitura de documentação técnica)
-- ⚽ Esportes e aprendizado contínuo fazem parte da rotina
+I enjoy understanding **how things work under the hood**, writing clean code, and learning constantly — through projects and documentation alike (including in English).
+
+- 🎓 Software Engineering — PUCPR (expected graduation: **2027**)
+- 🚀 Seeking opportunities as a **Junior Developer**
+- 📚 **Intermediate** English (technical documentation reading)
+- ⚽ Sports and continuous learning are part of my routine
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div>
   <img src="https://skillicons.dev/icons?i=java,python,django,html,css,git" />
 </div>
 
-**Nível de conforto:**
-- Java: bom domínio
-- Python / Django: confortável
-- HTML / CSS: confortável
-- Git / GitHub: bom uso no dia a dia
+**Comfort level:**
+- Java: good command
+- Python / Django: comfortable
+- HTML / CSS: comfortable
+- Git / GitHub: solid daily use
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
-- 🔹 Projetos acadêmicos focados em lógica, backend e organização de código  
-- 🔹 Projetos pessoais para estudo e prática de Python, Django e Java  
-- 🔹 Aplicações com foco em aprendizado real
+### 🔹 [onboarding](https://github.com/ttheus27/onboarding) — `Vue` • Public
+Frontend challenge — PJ account onboarding for a crypto brokerage using Vue 3, Pinia, Bootstrap 5, SCSS and Yup. Mobile-first with multi-step flow and API integration.
+
+### 🔹 [Chat](https://github.com/ttheus27/Chat) — `Python` • Public
+Final project for CiberFísicos.
+
+### 🔹 [Gestao_De_Tarefas](https://github.com/ttheus27/Gestao_De_Tarefas) — `Python` • Public
+Project developed for my PDI in the 2nd semester at Neovia.
+
+### 🔹 [exeprienciasCriativa](https://github.com/ttheus27/exeprienciasCriativa) — `PHP` • Public
+Repository for the Creative Experiences project — 3rd semester of Software Engineering.
 
 ---
 
-## 📊 Atividade no GitHub
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ttheus27&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
@@ -51,12 +59,12 @@ Gosto de entender **como as coisas funcionam por trás**, escrever código limpo
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-9018902a2/)
 
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! ✨
+  ✨ Thanks for visiting my profile! ✨
 </div>
